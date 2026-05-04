@@ -225,6 +225,39 @@ Meta remains strongly first-order negative under current unit economics; this pa
 
 ---
 
+## Addressing 4 Key Pain Points
+
+## 1) CPA accuracy (especially Meta) and blended ecommerce impact
+
+- **Short answer:** TikTok CPA confidence is higher than Meta in this model because TikTok inputs include platform-native supplement case studies plus category benchmarks, while Meta relies more on broad vertical benchmark datasets that can vary by funnel quality.
+- **Are Meta estimates still usable?** Yes, but treat **$78 base CPA** as a planning midpoint, not a precision forecast. A realistic launch uncertainty band is roughly **+/-20-30%** until your first 2-4 weeks of live data.
+- **Does this account for your blended model (physical supplement + app protocol)?** Partially. This model prices acquisition on the **first physical order** only. If your ads/message also sell the protocol outcome and increase trust, blended positioning can lower CPA versus commodity supplement ads, but only after creative-market fit is proven.
+- **Planning implication:** Keep Meta in a scenario framework (`low / base / high`) and make scaling decisions from your own early blended-funnel data, not benchmark averages alone.
+
+## 2) AI video content feasibility on TikTok vs Meta
+
+- **TikTok:** High feasibility. AI talking-head/UGC-style content can perform if hooks are native, pacing is fast, and variation volume is high.
+- **Meta:** Moderate feasibility. AI content can work, but Meta often rewards stronger trust cues (real creator identity, social proof, comments, proof visuals), so fully synthetic creative may fatigue faster.
+- **Operational takeaway:** AI-only is more naturally aligned with TikTok testing velocity; on Meta, AI usually performs better when blended with real creator assets and proof-heavy direct response formatting.
+
+## 3) Complexity of running ads on Meta vs TikTok
+
+- **Meta complexity profile:** More mature but heavier account structure, audience/placement control options, attribution interpretation, and creative fatigue management across IG/FB surfaces.
+- **TikTok complexity profile:** Simpler to launch quickly, but winning requires rapid creative iteration, strong hook testing, and tighter trend/native-style adaptation.
+- **Net assessment for your setup:** Meta is generally more complex on campaign architecture and reporting nuance; TikTok is more complex on creative velocity discipline. For this plan, TikTok is still the simpler path to first signal because the model is built around high-volume AI creative testing.
+
+## 4) TikTok specialist availability at ~$800/month (quality + communication)
+
+- **Can you find one at this price?** Yes, but quality variance is high. At **~$800/month**, you are typically hiring a solo media buyer/freelancer or a junior pod, not a senior strategic team.
+- **India ban constraint:** Since TikTok is restricted in India, pure India-based talent pools can be thinner for current hands-on TikTok Ads operations. You may need to source from regions with active TikTok ad ecosystems.
+- **How to protect quality at this budget:**
+  - Require platform screenshots/live account evidence from recent TikTok campaigns (not just Meta case studies).
+  - Use a 2-4 week paid trial with clear KPIs: launch speed, creative test count, CPA trend, reporting clarity, response-time SLA.
+  - Ask for weekly optimization logs and test hypotheses to verify real operator depth.
+- **Practical expectation:** Same price can work, but do not assume same quality by default; process rigor and trial structure matter more than headline rate.
+
+---
+
 ## Final Takeaway
 
 With your constraints (same unit economics, $800/mo ads manager, high-volume AI UGC), the most accurate current benchmark-driven expectation is:
