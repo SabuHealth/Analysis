@@ -204,6 +204,14 @@ Meta remains strongly first-order negative under current unit economics, but **r
 - **If objective is fastest payback:** prioritize Model 1.
 - **If objective is long-term owned customer data + brand equity:** Model 2 is viable only with aggressive LTV strategy (app continuity, subscriptions, bundles).
 
+### Comparison Graphs
+
+| CPA Comparison | First-Order Net Comparison |
+| --- | --- |
+| ![Model CPA Comparison](./model_cpa_comparison.svg) | ![Model First-Order Net Comparison](./model_first_order_net_comparison.svg) |
+
+That makes the TikTok GMV Max model materially stronger for near-term cash efficiency, while Meta should be treated as a longer-horizon LTV play.
+
 ---
 
 ## Recommended Execution Rules (Both Models)
@@ -274,11 +282,3 @@ With your constraints (same unit economics, $800/mo ads manager, high-volume AI 
 
 - **TikTok GMV Max scenario:** launch CPA likely around **$19** (range **$15-$26**)
 - **Meta + AI UGC scenario (no retainers):** launch CPA likely around **$78** (range **$65-$95**); without paid creators, monitor whether live CPA trends toward the **conservative** end until creative converts.
-
-### Comparison Graphs
-
-| CPA Comparison | First-Order Net Comparison |
-| --- | --- |
-| ![Model CPA Comparison](./model_cpa_comparison.svg) | ![Model First-Order Net Comparison](./model_first_order_net_comparison.svg) |
-
-That makes the TikTok GMV Max model materially stronger for near-term cash efficiency, while Meta should be treated as a longer-horizon LTV play.
