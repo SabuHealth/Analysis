@@ -266,7 +266,7 @@ Both platforms punish weak creative, but they punish differently:
 - TikTok can scale when you can produce lots of variants cheaply that feel native (rapid hook testing helps a lot).
 - Meta often needs credibility-heavy creatives to convert cold traffic reliably to a Shopify-style purchase, especially in health/supplements—which can inflate CPA unless you nail offer, proof, page speed, and retargeting.
 
-## 6) “Everyone says Meta is best for a new brand to grow on.”
+## 6) “Many people say Meta is best for a new brand to grow on.”
 
 General advice often pushes Meta first because **scale, mature tooling, attribution surfaces, remarketing**, and broad reach make it workable for cold-start D2C: you can accumulate **pixel events**, audiences, creative learnings, and owned customer data faster than starting from scratch on niche channels alone.
 
