@@ -204,6 +204,14 @@ Meta remains strongly first-order negative under current unit economics, but **r
 - **If objective is fastest payback:** prioritize Model 1.
 - **If objective is long-term owned customer data + brand equity:** Model 2 is viable only with aggressive LTV strategy (app continuity, subscriptions, bundles).
 
+### Comparison Graphs
+
+| CPA Comparison | First-Order Net Comparison |
+| --- | --- |
+| ![Model CPA Comparison](./model_cpa_comparison.svg) | ![Model First-Order Net Comparison](./model_first_order_net_comparison.svg) |
+
+That makes the TikTok GMV Max model materially stronger for near-term cash efficiency, while Meta should be treated as a longer-horizon LTV play.
+
 ---
 
 ## Recommended Execution Rules (Both Models)
@@ -218,7 +226,7 @@ Meta remains strongly first-order negative under current unit economics, but **r
 
 ---
 
-## Addressing Key Pain Points
+## Addressing Pain Points
 
 ## 1) CPA accuracy (especially Meta) and blended ecommerce impact
 
@@ -249,6 +257,8 @@ Meta remains strongly first-order negative under current unit economics, but **r
   - Ask for weekly optimization logs and test hypotheses to verify real operator depth.
 - **Practical expectation:** Same price can work, but do not assume same quality by default; process rigor and trial structure matter more than headline rate.
 
+---
+
 ## 5) Creative economics (especially with AI-heavy testing)
 
 Both platforms punish weak creative, but they punish differently:
@@ -262,7 +272,11 @@ General advice often pushes Meta first because **scale, mature tooling, attribut
 
 That does **not** mean Meta is unconditionally “best” for your launch—it means Meta is often **recommended as a predictable learning environment** once you accept **higher first-order CPA** in competitive verticals. For supplements/wellness and your modeled CPAs, **near-term acquisition efficiency may still favor TikTok Shop**, while Meta may be the stronger **long-game** channel for **remarketing + LTV** if creative and funnel convert.
 
-**How to reconcile the advice:** treat “start on Meta” as *one* strategy pillar, not gospel—validate with small parallel tests against your numeric guardrails (`>$85` warning on Meta, `>$22` on TikTok GMV Max in your doc), and prioritize the platform that hits **marginal CPA vs contribution margin** given your Shopify vs Shop economics.
+## 7) “Others recommend TikTok for a new brand.”
+
+That usually reflects **native creative fit**, **algorithmic discovery**, and sometimes **lower near-term CPA** for the right offer—but it still depends on **Shop vs off-Shop economics**, compliance, and whether you can sustain **creative volume**. Same rule as Meta-first advice: **test small**, hold your **CPA guardrails**, and scale what clears **marginal contribution** for your funnel.
+
+**How to reconcile the advice:** treat “start on Meta” or "start on TikTok" as *one* of two strategy pillars, not gospel—validate with small parallel tests against your numeric guardrails (`>$85` warning on Meta, `>$22` on TikTok GMV Max in your doc), and prioritize the platform that hits **marginal CPA vs contribution margin** given your Shopify vs Shop economics.
 
 ---
 
@@ -272,11 +286,3 @@ With your constraints (same unit economics, $800/mo ads manager, high-volume AI 
 
 - **TikTok GMV Max scenario:** launch CPA likely around **$19** (range **$15-$26**)
 - **Meta + AI UGC scenario (no retainers):** launch CPA likely around **$78** (range **$65-$95**); without paid creators, monitor whether live CPA trends toward the **conservative** end until creative converts.
-
-### Comparison Graphs
-
-| CPA Comparison | First-Order Net Comparison |
-| --- | --- |
-| ![Model CPA Comparison](./model_cpa_comparison.svg) | ![Model First-Order Net Comparison](./model_first_order_net_comparison.svg) |
-
-That makes the TikTok GMV Max model materially stronger for near-term cash efficiency, while Meta should be treated as a longer-horizon LTV play.

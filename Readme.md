@@ -266,13 +266,17 @@ Both platforms punish weak creative, but they punish differently:
 - TikTok can scale when you can produce lots of variants cheaply that feel native (rapid hook testing helps a lot).
 - Meta often needs credibility-heavy creatives to convert cold traffic reliably to a Shopify-style purchase, especially in health/supplements—which can inflate CPA unless you nail offer, proof, page speed, and retargeting.
 
-## 6) “Many people say Meta is best for a new brand to grow on.”
+## 6) “Everyone says Meta is best for a new brand to grow on.”
 
 General advice often pushes Meta first because **scale, mature tooling, attribution surfaces, remarketing**, and broad reach make it workable for cold-start D2C: you can accumulate **pixel events**, audiences, creative learnings, and owned customer data faster than starting from scratch on niche channels alone.
 
 That does **not** mean Meta is unconditionally “best” for your launch—it means Meta is often **recommended as a predictable learning environment** once you accept **higher first-order CPA** in competitive verticals. For supplements/wellness and your modeled CPAs, **near-term acquisition efficiency may still favor TikTok Shop**, while Meta may be the stronger **long-game** channel for **remarketing + LTV** if creative and funnel convert.
 
-**How to reconcile the advice:** treat “start on Meta” as *one* strategy pillar, not gospel—validate with small parallel tests against your numeric guardrails (`>$85` warning on Meta, `>$22` on TikTok GMV Max in your doc), and prioritize the platform that hits **marginal CPA vs contribution margin** given your Shopify vs Shop economics.
+## 7) “Others recommend TikTok for a new brand.”
+
+That usually reflects **native creative fit**, **algorithmic discovery**, and sometimes **lower near-term CPA** for the right offer—but it still depends on **Shop vs off-Shop economics**, compliance, and whether you can sustain **creative volume**. Same rule as Meta-first advice: **test small**, hold your **CPA guardrails**, and scale what clears **marginal contribution** for your funnel.
+
+**How to reconcile the advice:** treat “start on Meta” or "start on TikTok" as *one* of two strategy pillars, not gospel—validate with small parallel tests against your numeric guardrails (`>$85` warning on Meta, `>$22` on TikTok GMV Max in your doc), and prioritize the platform that hits **marginal CPA vs contribution margin** given your Shopify vs Shop economics.
 
 ---
 
