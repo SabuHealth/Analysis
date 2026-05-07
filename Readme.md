@@ -55,7 +55,7 @@ That usually reduces social-proof lift from real creators, so I modeled a **slig
 
 ---
 
-## 2) Meta (IG + FB) with Paid Creator Program
+## 2) Meta (IG + FB) with AI UGC (no paid retainers)
 
 ### Meta benchmark anchors
 
@@ -68,7 +68,7 @@ That usually reduces social-proof lift from real creators, so I modeled a **slig
 
 ### Meta launch CPA for your exact scenario
 
-Because this model includes creator payments (retainers), the creative quality/social proof usually improves vs pure synthetic-only pipelines on Meta.
+This scenario is **AI UGC only on Meta** (no paid creator retainers). Benchmarks below are still drawn from supplements/wellness D2C datasets, but vs a hybrid retained-creator program you may see **more creative fatigue** until trust/proof-heavy hooks convert; treat **$78** as the planning midpoint and **bias early decisions toward your conservative CPA** until you have live funnel data.
 
 - **Modeled Meta CPA range:** **$65 (best) / $78 (base) / $95 (conservative)**
 - **Most likely planning CPA:** **$78**
@@ -155,59 +155,52 @@ This is close to first-order breakeven in base case and clearly positive if CPA 
 
 ---
 
-## Launch Model 2 - Meta (IG/FB) + AI UGC + Creator Payments
+## Launch Model 2 - Meta (IG/FB) + AI UGC (No Retainer Payments)
 
 ### Model 2 strategy
 
 - Platform focus: Meta ads (IG + FB)
-- Creative engine: AI UGC volume + paid creators for social proof and trust
-- Include creator retainers to improve conversion and reduce fatigue
+- Creative engine: **AI UGC only** (ArcAds/Captions) at high variation volume
+- Creator economics: **$0 retainer payouts** (same fixed marketing envelope as Model 1 for manager + AI tooling)
 - Ads manager handles campaign build, segmentation, and optimization
-
-### Creator Payment Assumption
-
-Use same retained-creator structure as prior model:
-
-- `4 retainers x $700/month = $2,800/month`
-- **$5,600 per 60 days**
 
 ### Model 2 budget build (60 days)
 
 - Ads manager (`$800 x 2`): **$1,600**
 - AI tooling (`$900 x 2`): **$1,800**
-- Creator retainers (`$2,800 x 2`): **$5,600**
-- **Remaining ad spend:** `30,000 - 1,600 - 1,800 - 5,600 = 21,000`
+- Creator retainers: **$0**
+- **Remaining ad spend:** `30,000 - 1,600 - 1,800 = 26,600`
 
 ### CPA + Order Scenarios (Meta)
 
-- **Best case CPA $65:** `21,000 / 65 = 323` paid orders
-- **Base case CPA $78:** `21,000 / 78 = 269` paid orders
-- **Conservative CPA $95:** `21,000 / 95 = 221` paid orders
+- **Best case CPA $65:** `26,600 / 65 = 409` paid orders
+- **Base case CPA $78:** `26,600 / 78 = 341` paid orders
+- **Conservative CPA $95:** `26,600 / 95 = 280` paid orders
 
 ### Model 2 contribution check (first-order)
 
 Contribution per order = **$25.80**
 
-- **Best:** `323 x 25.80 = $8,333`
-- **Base:** `269 x 25.80 = $6,940`
-- **Conservative:** `221 x 25.80 = $5,702`
+- **Best:** `409 x 25.80 = $10,552`
+- **Base:** `341 x 25.80 = $8,798`
+- **Conservative:** `280 x 25.80 = $7,224`
 
 ### Model 2 first-order net vs $30,000 marketing spend
 
-- **Best:** `- $21,667`
-- **Base:** `- $23,060`
-- **Conservative:** `- $24,298`
+- **Best:** `- $19,448`
+- **Base:** `- $21,202`
+- **Conservative:** `- $22,776`
 
 ### Model 2 read
 
-Meta remains strongly first-order negative under current unit economics; this path requires subscription/app-LTV recovery and back-end monetization to be rational.
+Meta remains strongly first-order negative under current unit economics, but **removing retainers adds ~$5.6k back into ad spend**, which improves order volume at the same CPA assumptions. This path still requires subscription/app-LTV recovery and back-end monetization to be rational at first-order contribution.
 
 ---
 
 ## Side-by-Side Decision Snapshot
 
 - **Model 1 (TikTok GMV Max, no creator payouts):** much stronger first-order economics; can be near break-even at base CPA.
-- **Model 2 (Meta + creator payments):** better for brand control and data ownership but relies heavily on LTV, upsells, and retention.
+- **Model 2 (Meta + AI UGC, no retainers):** better for brand control and data ownership on your site; still relies heavily on LTV, upsells, and retention at these CPAs.
 - **If objective is fastest payback:** prioritize Model 1.
 - **If objective is long-term owned customer data + brand equity:** Model 2 is viable only with aggressive LTV strategy (app continuity, subscriptions, bundles).
 
@@ -225,7 +218,7 @@ Meta remains strongly first-order negative under current unit economics; this pa
 
 ---
 
-## Addressing 4 Key Pain Points
+## Addressing Pain Points
 
 ## 1) CPA accuracy (especially Meta) and blended ecommerce impact
 
@@ -258,12 +251,29 @@ Meta remains strongly first-order negative under current unit economics; this pa
 
 ---
 
+## 5) Creative economics (especially with AI-heavy testing)
+
+Both platforms punish weak creative, but they punish differently:
+
+- TikTok can scale when you can produce lots of variants cheaply that feel native (rapid hook testing helps a lot).
+- Meta often needs credibility-heavy creatives to convert cold traffic reliably to a Shopify-style purchase, especially in health/supplements—which can inflate CPA unless you nail offer, proof, page speed, and retargeting.
+
+## 6) “Everyone says Meta is best for a new brand to grow on.”
+
+General advice often pushes Meta first because **scale, mature tooling, attribution surfaces, remarketing**, and broad reach make it workable for cold-start D2C: you can accumulate **pixel events**, audiences, creative learnings, and owned customer data faster than starting from scratch on niche channels alone.
+
+That does **not** mean Meta is unconditionally “best” for your launch—it means Meta is often **recommended as a predictable learning environment** once you accept **higher first-order CPA** in competitive verticals. For supplements/wellness and your modeled CPAs, **near-term acquisition efficiency may still favor TikTok Shop**, while Meta may be the stronger **long-game** channel for **remarketing + LTV** if creative and funnel convert.
+
+**How to reconcile the advice:** treat “start on Meta” as *one* strategy pillar, not gospel—validate with small parallel tests against your numeric guardrails (`>$85` warning on Meta, `>$22` on TikTok GMV Max in your doc), and prioritize the platform that hits **marginal CPA vs contribution margin** given your Shopify vs Shop economics.
+
+---
+
 ## Final Takeaway
 
 With your constraints (same unit economics, $800/mo ads manager, high-volume AI UGC), the most accurate current benchmark-driven expectation is:
 
 - **TikTok GMV Max scenario:** launch CPA likely around **$19** (range **$15-$26**)
-- **Meta + creator payment scenario:** launch CPA likely around **$78** (range **$65-$95**)
+- **Meta + AI UGC scenario (no retainers):** launch CPA likely around **$78** (range **$65-$95**); without paid creators, monitor whether live CPA trends toward the **conservative** end until creative converts.
 
 ### Comparison Graphs
 
